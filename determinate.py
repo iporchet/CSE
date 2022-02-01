@@ -55,8 +55,6 @@ for x in range(0, len(nums)):
         if y != a and x != a:
             print(nums[x][y])
         
-        
-
 #det(nums)
 
 
